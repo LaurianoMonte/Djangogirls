@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81deb21-e962-4fc7-acd8-dc3879bb3041" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls2.0" />
   </component>
   <component name="RunManager">
     <configuration name="djangogirls" type="Python.DjangoServer" factoryName="Django server">
@@ -64,30 +63,43 @@
       <updated>1600087409527</updated>
       <workItem from="1600087425182" duration="381000" />
       <workItem from="1600104695020" duration="198000" />
-      <workItem from="1600104950760" duration="1155000" />
+      <workItem from="1600104950760" duration="2901000" />
+      <workItem from="1600116995414" duration="23000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1600106174117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600106174117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1600106145786">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1600106173001">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600106145786" />
-    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1600105038021">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600106173001" />
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1600117018796">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600105038021" />
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600117018796" />
     <state x="553" y="262" key="Github.ShareDialog" timestamp="1600105083700">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="553" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1600105083700" />
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1600104693958">
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1600117003836">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600104693958" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600117003836" />
     <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600106051515">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

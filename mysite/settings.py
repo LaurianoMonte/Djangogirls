@@ -26,7 +26,7 @@ SECRET_KEY = '0uxl#qqdb(q$-*v)_h(lcxzw%$@5lk-mo9v08@kp6=tt!-kl8k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com','.c9users.io']
 
 
 # Application definition
