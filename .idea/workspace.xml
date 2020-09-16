@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e81deb21-e962-4fc7-acd8-dc3879bb3041" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="djangogirls" type="Python.DjangoServer" factoryName="Django server">
@@ -33,6 +37,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -65,6 +70,7 @@
       <workItem from="1600104695020" duration="198000" />
       <workItem from="1600104950760" duration="2901000" />
       <workItem from="1600116995414" duration="23000" />
+      <workItem from="1600224425441" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1600106174117</created>
@@ -96,6 +102,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="553" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1600105083700" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1600226597039">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600226597039" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1600226597038">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600226597038" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1600226597038">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600226597038" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1600226597038">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600226597038" />
     <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1600117003836">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
