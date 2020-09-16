@@ -1,6 +1,8 @@
 
 body {
-    padding-left: 15px;
+    height: 100%;
+    width: 100%;
+    font-family: 'Arial';
 }
 h1 a, h2 a {
     color: #C25100;
