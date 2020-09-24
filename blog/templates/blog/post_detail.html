@@ -14,8 +14,8 @@
         <p>{{ post.text|linebreaksbr }}</p>
         {{ msg }}
         <form action="." method="post">{% csrf_token %}
-        {{ form }}
-        <button type="submit" name="button">Enviar</button>
-</form>
+            {{ form }}
+            <button type="submit" name="button">Enviar</button>
+        </form>
     </div>
 {% endblock %}
