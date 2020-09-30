@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projetos/Python/tutorialpy" />
   </component>
   <component name="RunManager">
     <configuration name="djangogirls" type="Python.DjangoServer" factoryName="Django server">
@@ -87,6 +87,7 @@
       <workItem from="1600253465351" duration="564000" />
       <workItem from="1600254177856" duration="249000" />
       <workItem from="1600268073298" duration="1657000" />
+      <workItem from="1601488062241" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1600106174117</created>
@@ -110,10 +111,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600269743629" />
-    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1600117018796">
+    <state x="462" y="111" key="FileChooserDialogImpl" timestamp="1601488127019">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600117018796" />
+    <state x="462" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601488127019" />
     <state x="553" y="262" key="Github.ShareDialog" timestamp="1600105083700">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -138,10 +139,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1600269894640" />
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1600268113672">
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1601488065187">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600268113672" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601488065187" />
     <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600106051515">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
