@@ -1,5 +1,5 @@
 import environ
-from djangogirls.sttings.base import *
+from djangogirls.settings.base import *
 
 env = environ.Env()
 
